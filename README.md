@@ -4,7 +4,7 @@ Hey there 👋, I'm leo<br>I'm a 21-year-old Senior QA Engineer with a passion f
 - 🚀 Currently: I'm diving deep into the world of AI, crafting innovative testing strategies and automating everything in sight.<br>
 - 🌱 Learning:  I'm eager to expand my knowledge in security testing and network security to further enhance the resilience of the systems I work on.<br>
 - 💻 Tech Stack:  My go-to languages are Python, Java, and Lua. I'm always open to exploring new technologies and tools.<br>
-- ❤️ Love: I love programming, playing guitar and making sports.<br>
+- ❤️ Love: I love programming, playing guitar and doing sports.<br>
 
 Let's connect and build something amazing together! ✨
 
