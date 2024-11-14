@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there 👋, I'm leo<br>I'm a Senior QA Engineer with a passion for ensuring quality in the ever-evolving world of AI. I specialize in AI testing and automation.<br><br>
+Hey there 👋, I'm leo
+I'm a Senior QA Engineer with a passion for ensuring quality in the ever-evolving world of AI. I specialize in AI testing and automation.<br>
 - 🚀 Currently: I'm diving deep into the world of AI, crafting innovative testing strategies and automating everything in sight.<br>
 - 🌱 Learning:  I'm eager to expand my knowledge in security testing and network security to further enhance the resilience of the systems I work on.<br>
 - 💻 Tech Stack:  My go-to languages are Python, Java, and Lua. I'm always open to exploring new technologies and tools.<br>
