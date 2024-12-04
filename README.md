@@ -1,12 +1,15 @@
-# 💫 About Me:
-Hey there 👋, I'm leo
-I'm a Senior QA Engineer with a passion for ensuring quality in the ever-evolving world of AI. I specialize in AI testing and automation.<br>
-- 🚀 Currently: I'm diving deep into the world of AI, crafting innovative testing strategies and automating everything in sight.<br>
-- 🌱 Learning:  I'm eager to expand my knowledge in security testing and network security to further enhance the resilience of the systems I work on.<br>
-- 💻 Tech Stack:  My go-to languages are Python, Java, and Lua. I'm always open to exploring new technologies and tools.<br>
-- ❤️ Love: I love programming, playing guitar and doing sports.<br>
+# 💫 Acerca de mí:
+¡Hola 👋, soy Leo!  
+Soy un líder de QA, estoy apasionado por explorar el equilibrio entre la tecnología, la creatividad y el desarrollo humano. Mi experiencia como ingeniero senior en pruebas de calidad me ha llevado a especializarme en IA y automatización, garantizando la excelencia en un mundo en constante cambio.  
 
-Let's connect and build something amazing together! ✨
+- 🚀 **Actualmente**: Estoy desarrollando estrategias de prueba innovadoras para sistemas de IA, mientras integro mi pasión por la creatividad y el aprendizaje continuo en todo lo que hago.  
+- 🌱 **Aprendiendo**: Me enfoco en ampliar mis conocimientos en ciberseguridad y pruebas de resiliencia para construir sistemas más sólidos y confiables.  
+- 💻 **Tech Stack**: Python ,Java y Lua son mis herramientas clave, pero también me entusiasma experimentar con nuevas tecnologías que me reten y me inspiren.  
+- ❤️ **Pasiones**: Soy un atleta, músico y creador de contenido. Mi misión es inspirar a otros a alcanzar su máximo potencial.  
+
+Conectemos para aprender, colaborar y crear algo transformador juntos. ✨
+
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=leointhecode&icon=0&color=10)](https://visitcount.itsvg.in)
 
