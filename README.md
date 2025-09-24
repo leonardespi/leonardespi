@@ -1,4 +1,4 @@
-# About me:
+# Bio:
 I’m Leonardo Espinosa (Leo), a Test Engineer at Zurich Insurance with focus on automation, AI testing, and open-source projects. I explore AI-driven frameworks, automation tooling, and creative projects that merge technology, education, and music. Also, I love enchiladas verdes.
 
 
